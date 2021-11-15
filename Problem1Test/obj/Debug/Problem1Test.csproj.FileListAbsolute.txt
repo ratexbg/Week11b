@@ -1,0 +1,24 @@
+C:\Users\echrk\source\repos\Week11b\Problem1Test\bin\Debug\Problem1Test.exe.config
+C:\Users\echrk\source\repos\Week11b\Problem1Test\bin\Debug\Problem1Test.exe
+C:\Users\echrk\source\repos\Week11b\Problem1Test\bin\Debug\Problem1Test.pdb
+C:\Users\echrk\source\repos\Week11b\Problem1Test\bin\Debug\Problem1.dll
+C:\Users\echrk\source\repos\Week11b\Problem1Test\bin\Debug\Problem1.pdb
+C:\Users\echrk\source\repos\Week11b\Problem1Test\bin\Debug\Problem1.dll.config
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test.csprojAssemblyReference.cache
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\MainWindow.g.cs
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\App.g.cs
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test_MarkupCompile.cache
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test_MarkupCompile.lref
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\MainWindow.baml
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test.g.resources
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test.Properties.Resources.resources
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test.csproj.GenerateResource.cache
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test.csproj.CopyComplete
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test.exe
+C:\Users\echrk\source\repos\Week11b\Problem1Test\obj\Debug\Problem1Test.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Problem1Test\obj\Debug\Problem1Test.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Problem1Test\obj\Debug\App.g.cs
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Problem1Test\obj\Debug\Problem1Test_MarkupCompile.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Problem1Test\obj\Debug\Problem1Test.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Problem1Test\obj\Debug\Problem1Test.pdb

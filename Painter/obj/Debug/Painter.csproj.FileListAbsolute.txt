@@ -1,0 +1,26 @@
+C:\Users\echrk\source\repos\Week11b\Painter\bin\Debug\Painter.exe.config
+C:\Users\echrk\source\repos\Week11b\Painter\bin\Debug\Painter.exe
+C:\Users\echrk\source\repos\Week11b\Painter\bin\Debug\Painter.pdb
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\Painter.baml
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\Painter.g.cs
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\App.g.cs
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\Painter_MarkupCompile.cache
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\Painter.g.resources
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\Painter.Properties.Resources.resources
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\Painter.csproj.GenerateResource.cache
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\Painter.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\Painter.exe
+C:\Users\echrk\source\repos\Week11b\Painter\obj\Debug\Painter.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\bin\Debug\Painter.exe.config
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\bin\Debug\Painter.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\bin\Debug\Painter.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\Painter.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\Painter.baml
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\Painter.g.cs
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\App.g.cs
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\Painter_MarkupCompile.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\Painter.g.resources
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\Painter.Properties.Resources.resources
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\Painter.csproj.GenerateResource.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\Painter.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\Painter\obj\Debug\Painter.pdb

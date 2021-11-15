@@ -1,0 +1,37 @@
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MenuWithContent.csprojAssemblyReference.cache
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MainWindow.g.cs
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\Page1.g.cs
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\Page2.g.cs
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\App.g.cs
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MenuWithContent_MarkupCompile.cache
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MenuWithContent_MarkupCompile.lref
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\bin\Debug\MenuWithContent.exe.config
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\bin\Debug\MenuWithContent.exe
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\bin\Debug\MenuWithContent.pdb
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MainWindow.baml
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\Page1.baml
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\Page2.baml
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MenuWithContent.g.resources
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MenuWithContent.Properties.Resources.resources
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MenuWithContent.csproj.GenerateResource.cache
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MenuWithContent.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MenuWithContent.exe
+C:\Users\echrk\source\repos\Week11b\MenuWithContent\obj\Debug\MenuWithContent.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\bin\Debug\MenuWithContent.exe.config
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\bin\Debug\MenuWithContent.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\bin\Debug\MenuWithContent.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MenuWithContent.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MainWindow.g.cs
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\Page1.g.cs
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\Page2.g.cs
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\App.g.cs
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MenuWithContent_MarkupCompile.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MenuWithContent_MarkupCompile.lref
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MainWindow.baml
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\Page1.baml
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\Page2.baml
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MenuWithContent.g.resources
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MenuWithContent.Properties.Resources.resources
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MenuWithContent.csproj.GenerateResource.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MenuWithContent.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week11b\Week11b\MenuWithContent\obj\Debug\MenuWithContent.pdb
